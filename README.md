@@ -2,7 +2,7 @@
 My name is Yousef, you can just refer to me as TY.
 ## Projects I've worked on:
 I worked on iEmirati with a few colleagues (iOS Design Challenge 2024-25). I did most of the code,
-but I'm glad my friends helped with a part of it! The app didn’t make it unfortunately, because I was supposed to make it with Figma. But, the app was actually well done!
+but I'm glad my friends helped with a part of it! The app didn’t make it unfortunately, because I was supposed to make it with Figma. But, working with my team was better than nothing. And the app was actually well done!
 
 I have also worked on Diabeto as a graduation project, along with a few other friends. I was the leader of the team, and we managed to push our efforts to the maximum, and the app has turned out very solid and user-friendly. We were a great team for sure.
 
